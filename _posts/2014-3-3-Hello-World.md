@@ -1,10 +1,9 @@
 ---
 layout: post
-title: You're up and running!
+title: CV and job hunting!
 ---
 
-Next you can update your site name, avatar and other options using the _config.yml file in the root of your repository (shown below).
+A highly-motivated professional data scientist, I have five years experience as a researcher at Imperial College London, CERN and TU Dortmund. I am looking to apply my analytical and mathematical skills in quantitative roles to inform business decisions using advanced analytics. 
 
-![_config.yml]({{ site.baseurl }}/images/config.png)
+My CV can be found here: [CV](https://github.com/alexshires/cv/blob/master/alexander-shires-cv.pdf)
 
-The easiest way to make your first post is to edit this one. Go into /_posts/ and update the Hello World markdown file. For more instructions head over to the [Jekyll Now repository](https://github.com/barryclark/jekyll-now) on GitHub.
