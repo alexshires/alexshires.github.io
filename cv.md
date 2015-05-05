@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Curriculum Vitae
-permalink: /CV/
+permalink: /cv/
 ---
 
 My CV can be found [here]({{ site.url }}/cv/alex-shires-cv.pdf).
