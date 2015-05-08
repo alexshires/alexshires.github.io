@@ -74,7 +74,7 @@ exclude:
     - README.md
 
 
-#pages_list:
-#    About: '/about'
-#    CV: '/cv'
+pages_list:
+    About: '/about'
+
 
