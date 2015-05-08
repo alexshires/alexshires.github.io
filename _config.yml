@@ -72,3 +72,9 @@ exclude:
     - Gemfile.lock
     - LICENSE
     - README.md
+
+
+#pages_list:
+#    About: '/about'
+#    CV: '/cv'
+
