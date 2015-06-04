@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Curriculum Vitae
-permalink: /cv/
+permalink: /cv2/
 ---
 
 My CV can be found [here](http://ashires.web.cern.ch/ashires/alexander-shires-cv.pdf).
