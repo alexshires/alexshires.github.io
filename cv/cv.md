@@ -4,7 +4,7 @@ title: Curriculum Vitae
 permalink: /cv2/
 ---
 
-My CV can be found [here](alex-shires-cv.pdf).
+My data science CV can be found [here](alexander-shires-cv.pdf).
 
-My comprehensive academic CV can be found [here](alex-shires-cv-physics.pdf).
+My comprehensive academic CV can be found [here](alexander-shires-cv-physics.pdf).
 
