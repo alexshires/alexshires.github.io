@@ -3,9 +3,11 @@ layout: post
 title: Recommendations
 ---
 
-# Books, Blogs, and other materials* 
+# Books, Blogs, and other materials
 
 I was thinking the other day about useful sources of information for modern ML Engineering and Architecture (not data science/algorithm development) - and came up with the following. This is orientated for High Energy Physics academics (as that's my experience). For posterity (and we will see how this ages), here goes:
+
+I will write some justifications another time :) on a more detailed basis! 
 
 ## Key learning goals
 * Be familiar with technical systems in business environments
@@ -48,7 +50,7 @@ I was thinking the other day about useful sources of information for modern ML E
 * [The Manager's Path (Fornier)](https://bookshop.org/books/the-manager-s-path-a-guide-for-tech-leaders-navigating-growth-and-change/9781491973899) 
 * [The Making of a Manager (Zhao)](https://www.juliezhuo.com/book/manager.html) 
 * [The Answers:  - Lucy Kellaway](https://www.goodreads.com/book/show/2153304.The_Answers)  - valuable culture information
-* [The Lean Startup: http://theleanstartup.com/book)  	
+* [The Lean Startup:](http://theleanstartup.com/book)  	
 * [Managing the Professional Services firm (the business of consulting) - Meister](https://davidmaister.com/books/mtpsf/) 
 * [Who Moved My Blackberry - business culture](https://www.goodreads.com/book/show/954312.Who_Moved_My_Blackberry_)
 * [The Money Machine - how the city works](https://www.penguin.co.uk/books/543/54319/the-money-machine/9780141980737.html)
