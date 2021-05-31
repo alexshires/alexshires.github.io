@@ -40,6 +40,7 @@ I will write some justifications another time :) on a more detailed basis!
 * [Normcore Tech](https://vicki.substack.com/)
 * [Julia Evans bite size blog posts](https://jvns.ca/) 
 * [Counting Stuff](https://counting.substack.com/) 
+* [SRE Weekly](https://sreweekly.com/)
 
 ## Business concepts:
 * Project Management - Agile / Waterfall
